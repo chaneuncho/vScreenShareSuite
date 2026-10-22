@@ -1,0 +1,10 @@
+# 빌드 결과물
+*.exe
+*.pdb
+bin/
+obj/
+
+# 개인 에디터 설정
+*.code-workspace
+.vs/
+.vscode/
