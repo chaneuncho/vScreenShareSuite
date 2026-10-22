@@ -7,11 +7,22 @@ LAN/인터넷에서 다른 PC의 화면을 **보고, 마우스·키보드로 조
 
 ---
 
+<!-- 2026-10-22 Claude Code(조찬은) : 릴리스 다운로드 섹션 추가, 구성 표의 exe 항목을 릴리스 배포로 수정 -->
+## ⬇ 다운로드
+
+**[ScreenShareSuite.exe 다운로드 (최신 버전)](https://github.com/chaneuncho/vScreenShareSuite/releases/latest/download/ScreenShareSuite.exe)**
+
+- 모든 버전과 변경 내역: [Releases 페이지](https://github.com/chaneuncho/vScreenShareSuite/releases)
+- Windows 내장 .NET Framework 4.x로 실행되므로 별도 설치가 필요 없습니다.
+- 인터넷에서 받은 파일이라 처음 실행할 때 SmartScreen 경고가 뜰 수 있습니다. **[추가 정보] → [실행]** 을 누르세요.
+
+---
+
 ## 📁 구성
 
 | 파일 | 설명 |
 |------|------|
-| `ScreenShareSuite.exe` | 실행 파일 (단일, DLL 불필요) |
+| `ScreenShareSuite.exe` | 실행 파일 (단일, DLL 불필요) — 저장소에는 없고 [Releases](https://github.com/chaneuncho/vScreenShareSuite/releases)에서 배포 |
 | `ScreenShareSuite.cs` | 소스 (단일 파일) |
 | `README.md` | 이 문서 |
 
